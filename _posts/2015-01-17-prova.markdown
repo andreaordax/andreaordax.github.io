@@ -30,6 +30,6 @@ header-img: "img/post-bg-07.jpg"
 
 <p>M’esforço per entendre i envejo la vostra emoció ahir i potser un dia jo m’emocionaré i formaré part d’un tinglado tan gran com el “procés”. De moment, amb la nació no em toqueu la fibra, potser si l’Artur em deixa triar en un referèndum si vull acabar amb tots els imputats de CiU, ploro i tot.</p>
 
-<p>"Estos son mis principios, si no le gustan, tengo otros."</p>
+<p>_Estos son mis principios, si no le gustan, tengo otros._</p>
 
 <p>Imatge de portada, EFE.</p>
