@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ""Aquí paz y después gloria""
+title:      "Aquí paz y después gloria"
 date:       2014-09-12 12:00:00
 author:     "Andrea Ordax"
 header-img: "img/post-bg-05.jpg"
